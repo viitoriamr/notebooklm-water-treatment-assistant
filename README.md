@@ -1,6 +1,8 @@
 # notebooklm-water-treatment-assistant
 # 💧 Assistente Inteligente para Tratamento de Águas e Efluentes
 
+[Assistente Inteligente para Tratamento de Águas e Efluentes](https://notebooklm.google.com/notebook/c0e63b95-c07a-4d92-9e3a-5e63929bb7df)
+
 ![capa](Gemini_Generated_Image_xw8i0vxw8i0vxw8i.png)
 
 ## 📖 Sobre o Projeto
@@ -111,6 +113,9 @@ O NotebookLM foi projetado para responder perguntas como:
 
 ---
 
+[Assistente Inteligente para Tratamento de Águas e Efluentes](https://notebooklm.google.com/notebook/c0e63b95-c07a-4d92-9e3a-5e63929bb7df)
+
+---
 ## 💡 Diferencial
 
 Além de consultar valores e limites legais, o NotebookLM foi estruturado para explicar as relações entre os parâmetros de qualidade da água e auxiliar na investigação de possíveis causas de desvios operacionais, funcionando como um assistente técnico especializado em tratamento de águas e efluentes.
